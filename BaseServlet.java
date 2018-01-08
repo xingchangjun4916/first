@@ -11,9 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 public class BaseServlet extends HttpServlet {
 	private Long age;
 	private Long age;
-	private Long age;
-	private Long age;
-	private Long age;
+
 	@Override
 	public void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
